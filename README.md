@@ -52,6 +52,8 @@ Choose number type:
 1. Integer
 2. Decimal
 3. Exit
+
+   
 Enter Your Choice: 1
 ====================================
 Which operation do you want to perform:
